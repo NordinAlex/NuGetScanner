@@ -26,10 +26,6 @@ To use this script, follow these steps:
     # Help         : https://github.com/AlexNordin-dev/NuGetPackagesVulnerabilityScanner
     #==============================================================================
 
-    # Path to the project's root folder
-    $projectRoot = $env:BUILD_REPOSITORY_LOCALPATH
-    Set-Location $projectRoot
-
     Write-Host "------------------- Security analysis of NuGet packages -------------------"
 
     try {
