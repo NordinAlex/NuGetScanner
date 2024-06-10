@@ -1,7 +1,7 @@
 #==============================================================================
 # Name         : NuGet-packages Vulnerability Scanner
 # Description  : This is for Azure DevOps Build Pipeline to detect vulnerabilities in NuGet packages used in a .NET Framework project
-# Version      : 0.0.1
+# Version      : 0.1.1
 # Author       : Alex Nordin
 # License      : MIT License 2024
 # Help         : https://github.com/AlexNordin-dev/NuGetPackagesVulnerabilityScanner
