@@ -4,7 +4,7 @@
 # Version      : 0.1.1
 # Author       : Alex Nordin
 # License      : MIT License 2024
-# Help         : https://github.com/AlexNordin-dev/NuGetPackagesVulnerabilityScanner
+# Help         : https://github.com/NordinAlex/NuGetScanner
 #==============================================================================
 
 # Path to the project's root folder
