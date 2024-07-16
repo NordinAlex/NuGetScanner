@@ -4,7 +4,7 @@
 # Version      : 0.1.1
 # Author       : Alex Nordin
 # License      : MIT License 2024
-# Help         : https://github.com/AlexNordin-dev/NuGetPackagesVulnerabilityScanner
+# Help         : https://github.com/AlexNordin-dev/NordinAlex/NuGetScanner
 #==============================================================================
 
 # The path where the PowerShell script is temporarily located
