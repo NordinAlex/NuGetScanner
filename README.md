@@ -23,7 +23,7 @@ To use this script, follow these steps:
     # Version      : 0.1.1
     # Author       : Alex Nordin
     # License      : MIT License 2024
-    # Help         : https://github.com/AlexNordin-dev/NuGetPackagesVulnerabilityScanner
+    # Help         : https://github.com/NordinAlex/NuGetScanner
     #==============================================================================
 
     Write-Host "------------------- Security analysis of NuGet packages -------------------"
@@ -78,7 +78,7 @@ To use this script, follow these steps:
       # Version      : 0.1.1
       # Author       : Alex Nordin
       # License      : MIT License 2024
-      # Help         : https://github.com/AlexNordin-dev/NuGetPackagesVulnerabilityScanner
+      # Help         : https://github.com/NordinAlex/NuGetScanner
       #==============================================================================
       
       # The path where the PowerShell script is temporarily located
